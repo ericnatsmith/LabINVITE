@@ -1,18 +1,16 @@
 # site properties and page defaults
-title: ericnatsmith
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Lab INVITE
+subtitle: Research with a purpose
+description: Join us in discovering, developing, and testing impactful teaching practices
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@ericnatsmith.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: ensmith@utexas.edu
+  orcid: 0000-0001-5050-706X
+  google-scholar: QFSq1VcAAAAJ&hl
   github: ericnatsmith
-  twitter: ericnatsmith
-  youtube: ericnatsmith
 
 ### jekyll settings
 
