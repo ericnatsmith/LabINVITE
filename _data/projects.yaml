@@ -1,47 +1,51 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: NEAT STEM
+  subtitle: Measuring Instructional Practices in STEM college courses
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: The National Educataional Assessment Trial of College STEM Instruction (NEAT STEM)
+  tags:
+    - Ongoing
+
+- title: Learning Assistant Training
+  subtitle: Training Undergraduate Instructors in Expansive Pedagogy
   group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  tags:
+    - In Prep
+    - Trainings
+
+- title: Broad Regard Messaging
+  subtitle: Recognizing students' lives to increase academic investment
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  tags:
+    - In Prep
+
+- title: Post-bacc 
+  subtitle: a subtitle
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
     - resource
+    - mentoring
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
+- title: Physics TxMI
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - Trainings
 
-- title: Cool Web App
+- title: Effective Groupwork
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
   tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - Trainings

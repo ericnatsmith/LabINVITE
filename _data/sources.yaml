@@ -1,11 +1,15 @@
 - id: https://doi.org/10.1177/0956797615571017
+  image: https://upload.wikimedia.org/wikipedia/en/a/aa/Psychological_Science_cover.jpg
 
 - id: https://doi.org/10.1037/str0000137
+  image: images/spire.png
 
 - id: https://doi.org/10.1037/emo0000379
+  image: https://www.apa.org/pubs/journals/images/emo-150.gif
 
 - id: https://doi.org/10.3389/fpsyg.2019.02962
-
+  image: images/NavyBUDs.png
+  
 - id: https://doi.org/10.1177/2515245917740427
 
 - id: https://doi.org/10.1111/josi.12417
