@@ -1,9 +1,9 @@
 ---
 ---
 
-# ericnatsmith's Website
+# You're invited!
 
-An engaging 1-3 sentence description of your lab.
+We are a collaborative of social scientists and educators devoted to discovering, developing, and testing impactful instructional practices through rigorous research methods. If you'd like to join our efforts please *contact us*.
 
 {% include section.html %}
 
