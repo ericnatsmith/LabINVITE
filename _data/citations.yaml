@@ -12,7 +12,6 @@
   publisher: Psychological Science
   date: '2015-06-01'
   link: http://journals.sagepub.com/doi/10.1177/0956797615571017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1037/str0000137
@@ -27,6 +26,143 @@
   publisher: International Journal of Stress Management
   date: '2020-05-01'
   link: https://doi.apa.org/doi/10.1037/str0000137
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1037/emo0000379
+  title: 'Emotion theories and adolescent well-being: Results of an online intervention.'
+  authors:
+  - Eric N. Smith
+  - Carissa Romero
+  - Brian Donovan
+  - Rachel Herter
+  - David Paunesku
+  - Geoffrey L. Cohen
+  - Carol S. Dweck
+  - James J. Gross
+  publisher: Emotion
+  date: '2018-09-01'
+  link: https://doi.apa.org/doi/10.1037/emo0000379
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.3389/fpsyg.2019.02962
+  title: Stress, Mindsets, and Success in Navy SEALs Special Warfare Training
+  authors:
+  - Eric N. Smith
+  - Michael D. Young
+  - Alia J. Crum
+  publisher: Frontiers in Psychology
+  date: '2020-01-01'
+  link: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02962
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1177/2515245917740427
+  title: Improving the Replicability of Psychological Science Through Pedagogy
+  authors:
+  - Robert X. D. Hawkins
+  - Eric N. Smith
+  - Carolyn Au
+  - Juan Miguel Arias
+  - Rhia Catapano
+  - Eric Hermann
+  - Martin Keil
+  - Andrew Lampinen
+  - Sarah Raposo
+  - Jesse Reynolds
+  - Shima Salehi
+  - Justin Salloum
+  - Jed Tan
+  - Michael C. Frank
+  publisher: Advances in Methods and Practices in Psychological Science
+  date: '2018-03-01'
+  link: http://journals.sagepub.com/doi/10.1177/2515245917740427
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1111/josi.12417
+  title: "Teacher\u2010 versus researcher\u2010provided affirmation effects on students\u2019\
+    \ task engagement and positive perceptions of teachers"
+  authors:
+  - Eric N. Smith
+  - Christopher S. Rozek
+  - Kody J. Manke
+  - Carol S. Dweck
+  - Gregory M. Walton
+  publisher: Journal of Social Issues
+  date: '2021-09-01'
+  link: https://spssi.onlinelibrary.wiley.com/doi/10.1111/josi.12417
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1126/science.ade4420
+  title: Where and with whom does a brief social-belonging intervention promote progress
+    in college?
+  authors:
+  - Gregory M. Walton
+  - Mary C. Murphy
+  - Christine Logel
+  - David S. Yeager
+  - J. Parker Goyer
+  - Shannon T. Brady
+  - Katherine T. U. Emerson
+  - David Paunesku
+  - Omid Fotuhi
+  - Alison Blodorn
+  - Kathryn L. Boucher
+  - Evelyn R. Carter
+  - Maithreyi Gopalan
+  - Amy Henderson
+  - Kathryn M. Kroeper
+  - Lisel Alice Murdock-Perriera
+  - Stephanie L. Reeves
+  - Tsotso T. Ablorh
+  - Shahana Ansari
+  - Susie Chen
+  - Peter Fisher
+  - Manuel Galvan
+  - Madison Kawakami Gilbertson
+  - Chris S. Hulleman
+  - Joel M. Le Forestier
+  - Christopher Lok
+  - Katie Mathias
+  - Gregg A. Muragishi
+  - Melanie Netter
+  - Elise Ozier
+  - Eric N. Smith
+  - Dustin B. Thoman
+  - Heidi E. Williams
+  - Matthew O. Wilmot
+  - Cassie Hartzog
+  - X. Alice Li
+  - Natasha Krol
+  publisher: Science
+  date: '2023-05-05'
+  link: https://www.science.org/doi/10.1126/science.ade4420
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1007/s10648-022-09715-z
+  title: "An Organizing Framework for Teaching Practices that Can \u201CExpand\u201D\
+    \ the Self and Address Social Identity Concerns"
+  authors:
+  - Eric N. Smith
+  - David S. Yeager
+  - Carol S. Dweck
+  - Gregory M. Walton
+  publisher: Educational Psychology Review
+  date: '2022-12-01'
+  link: https://doi.org/10.1007/s10648-022-09715-z
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1037/xge0001396
+  title: APA PsycNet
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://psycnet.apa.org/fulltext/2023-72899-001.html
+  plugin: sources.py
+  file: sources.yaml
+- id: https://doi.org/10.1167/11.11.114
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1167/11.11.114
   plugin: sources.py
   file: sources.yaml
