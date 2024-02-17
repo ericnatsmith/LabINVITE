@@ -12,6 +12,7 @@
   publisher: Psychological Science
   date: '2015-06-01'
   link: http://journals.sagepub.com/doi/10.1177/0956797615571017
+  image: https://upload.wikimedia.org/wikipedia/en/a/aa/Psychological_Science_cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1037/str0000137
@@ -26,6 +27,7 @@
   publisher: International Journal of Stress Management
   date: '2020-05-01'
   link: https://doi.apa.org/doi/10.1037/str0000137
+  image: images/spire.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1037/emo0000379
@@ -42,6 +44,7 @@
   publisher: Emotion
   date: '2018-09-01'
   link: https://doi.apa.org/doi/10.1037/emo0000379
+  image: https://www.apa.org/pubs/journals/images/emo-150.gif
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.3389/fpsyg.2019.02962
@@ -53,6 +56,7 @@
   publisher: Frontiers in Psychology
   date: '2020-01-01'
   link: https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.02962
+  image: images/NavyBUDs.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1177/2515245917740427
