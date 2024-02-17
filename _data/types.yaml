@@ -38,6 +38,11 @@ website:
   text: Website
   tooltip: Website
 
+cv:
+  icon: fa-light fa-file-lines
+  text: CV
+  tooltip: CV
+
 external:
   icon: fa-solid fa-up-right-from-square
   text: External Link
