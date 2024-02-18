@@ -9,6 +9,6 @@ nav:
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-# {% include icon.html icon="fa-solid fa-bullhorn" %} Current Reesarch Priorities
+# {% include icon.html icon="fa-solid fa-bullhorn" %} Worth Sharing
 
 {% include list.html component="card" data="projects" filters="group: sharing" style="small" %}
