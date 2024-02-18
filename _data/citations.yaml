@@ -79,7 +79,7 @@
   publisher: Advances in Methods and Practices in Psychological Science
   date: '2018-03-01'
   link: http://journals.sagepub.com/doi/10.1177/2515245917740427
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: images/ammps.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1111/josi.12417
@@ -94,7 +94,7 @@
   publisher: Journal of Social Issues
   date: '2021-09-01'
   link: https://spssi.onlinelibrary.wiley.com/doi/10.1111/josi.12417
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: https://spssi.onlinelibrary.wiley.com/cms/asset/83a9fc34-7066-4e1e-86b7-20d3ba797c82/josi.12594.fp.png
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1126/science.ade4420
@@ -141,6 +141,7 @@
   publisher: Science
   date: '2023-05-05'
   link: https://www.science.org/doi/10.1126/science.ade4420
+  image: https://www.science.org/cms/asset/ec4d83c2-108e-4fd0-8316-d915987de1ab/science.2023.380.issue-6644.largecover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1007/s10648-022-09715-z
@@ -154,21 +155,37 @@
   publisher: Educational Psychology Review
   date: '2022-12-01'
   link: https://doi.org/10.1007/s10648-022-09715-z
+  image: https://media.springernature.com/full/springer-static/cover-hires/journal/10648
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1037/xge0001396
-  title: APA PsycNet
-  authors: []
-  publisher: ''
+  title: 'Evaluation of the *Rethink Stress* Mindset Intervention: A Metacognitive
+    Approach to Changing Mindsets'
+  authors:
+  - Alia J. Crum
+  - Erik Santoro
+  - Isaac Handley-Miner
+  - Eric N. Smith
+  - Kris Evans
+  - Neema Moraveji
+  - Shawn Achor
+  - Peter Salovey
+  publisher: 'Journal of Experimental Psychology: General'
   date: ''
   link: https://psycnet.apa.org/fulltext/2023-72899-001.html
+  image: https://www.apa.org/pubs/journals/images/xge-150.gif
   plugin: sources.py
   file: sources.yaml
-- id: https://doi.org/10.1167/11.11.114
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://doi.org/10.1167/11.11.114
+- id: https://psycnet.apa.org/record/2020-23031-009
+  title: "The stress\u2011mindset intervention. In G. M. Walton & A. J. Crum (Eds.),\
+    \ *Handbook of wise interventions: How social psychology can help people change.*"
+  authors:
+  - Alia J. Crum
+  - Isaac J. Handley-Miner
+  - Eric N. Smith
+  publisher: The Guilford Press
+  date: '2022-10-04'
+  link: https://www.guilford.com/books/Handbook-of-Wise-Interventions/Walton-Crum/9781462551002
+  image: https://www.guilford.com/covers/large/9781462551002.jpg
   plugin: sources.py
   file: sources.yaml
