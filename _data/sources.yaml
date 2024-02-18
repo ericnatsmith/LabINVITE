@@ -23,7 +23,7 @@
   image: https://media.springernature.com/full/springer-static/cover-hires/journal/10648
 
 - id: https://doi.org/10.1037/xge0001396
-  title: 'Evaluation of the *Rethink Stress* Mindset Intervention: A Metacognitive Approach to Changing Mindsets'
+  title: 'Evaluation of the Rethink Stress Mindset Intervention: A Metacognitive Approach to Changing Mindsets'
   authors:
   - Alia J. Crum
   - Erik Santoro
@@ -34,10 +34,12 @@
   - Shawn Achor
   - Peter Salovey
   publisher: 'Journal of Experimental Psychology: General'
+  date: '2023-05-18'
+  link: https://doi.org/10.1037/xge0001396
   image: https://www.apa.org/pubs/journals/images/xge-150.gif
 
 - id: https://psycnet.apa.org/record/2020-23031-009
-  title: 'The stress‑mindset intervention. In G. M. Walton & A. J. Crum (Eds.), *Handbook of wise interventions: How social psychology can help people change.*'
+  title: 'The stress‑mindset intervention. In G. M. Walton & A. J. Crum (Eds.), Handbook of wise interventions: How social psychology can help people change.'
   authors:
   - Alia J. Crum
   - Isaac J. Handley-Miner
