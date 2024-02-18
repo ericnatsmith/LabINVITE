@@ -1,11 +1,35 @@
-- title: NEAT Survey Validation
+- title: Barriers to Effective PD
   subtitle: Measuring instructional practices in STEM college courses
   group: featured
   image: images/photo.jpg
   link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
   description: The National Educataional Assessment Trial (NEAT) aims to create valid measures of undergraduate learning experiences that capture impactful instructional practices and provide a foundation for the next generation of instructional improvement programs.
   tags:
-    - TxBSPI
+    - NEAT Surveys
+    - TxMI Fellowships
+    - ULA Trainings
+
+- title: Rigorously Test Promising Practices
+  subtitle: Collaborate with discipline-based educators and researchers
+  group: featured
+  image: images/photo.jpg
+  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
+  description: Description
+  tags:
+    - Peer Groupwork
+    - Instructor Messaging
+    - Grading Structures
+
+- title: Socially Constructed STEM Identities
+  subtitle: Description
+  group: featured
+  image: images/photo.jpg
+  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
+  description: Examine the role of socially constructed identities (i.e., "What do others think of me?") in motivation and performance.
+  tags:
+    - Broad Regard
+    - STEM Identity
+
 
 
 # - title: Engaging STEM Groupwork
@@ -35,7 +59,7 @@
 
 - title: OERTX Teaching Excellence Toolkit
   subtitle: Open Education Resources to support college readiness and success
-  group: featured
+  group: sharing
   image: images/photo.jpg
   link: https://oertx.highered.texas.gov/groups/teaching-excellence-toolkit/1382/
   description: The OERTX Teaching Excellence Toolkit is a collaboration between the Office of STEM Education Excellence (STEMx) at the University of Texas at Austin and the Texas Higher Education Coordinating Board, with support from college faculty and instructors across the state of Texas.
