@@ -189,3 +189,35 @@
   image: https://www.guilford.com/covers/large/9781462551002.jpg
   plugin: sources.py
   file: sources.yaml
+- id: https://doi.org/10.26300/es6b-sm82
+  title: "Let\u2019s Chat: Leveraging Chatbot Outreach for Improved Course Performance"
+  authors:
+  - Katharine Meyer
+  - Lindsay C. Page
+  - Catherine Mata
+  - Eric Smith
+  - B. Tyler Walsh
+  - C. Lindsey Fifield
+  - Amy Eremionkhale
+  - Michael Evans
+  - Shelby Frost
+  publisher: Annenberg Institute at Brown University
+  date: null
+  link: https://edworkingpapers.com/ai22-564
+  plugin: sources.py
+  file: sources.yaml
+- id: https://www.google.com
+  title: Initial evidence that peer instruction is less effective for physics students
+    with lower quantitative preparation
+  authors:
+  - Eric N. Smith
+  - Jacob Helwig,
+  - Jane Huk
+  - Kathryn Hendren
+  - Vernita Gordon
+  publisher: ''
+  date: ''
+  link: https://www.google.com/
+  image: images/peerlecture.png
+  plugin: sources.py
+  file: sources.yaml
