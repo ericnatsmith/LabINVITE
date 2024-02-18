@@ -7,12 +7,12 @@ We are a collaborative of social scientists and educators devoted to discovering
 
 {% include section.html %}
 
-## Highlights
+## What we do
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+'
 {%
   include button.html
   link="research"
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Addressing Barriers to Instructional Change"
   text=text
 %}
 

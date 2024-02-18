@@ -3,16 +3,17 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: The National Educataional Assessment Trial of College STEM Instruction (NEAT STEM)
+  description: The National Educataional Assessment Trial of College STEM Instruction (NEAT STEM) aims to create valid measures of undergraduate learning experiences that capture specific practices that are most impactful to students engagement and retention.
   tags:
     - Ongoing
+    - Methods
 
-- title: Learning Assistant Training
-  subtitle: Training Undergraduate Instructors in Expansive Pedagogy
+- title: Chemistry Learning Assistnat Trainings
+  subtitle: Leveraging undergraduate instructors to promote STEM equity
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Through a unique collaboration with an existing ULA program in the UT College of Natural Sciences, our research team developed a weekly supplemental “fellowship” for ULAs of a large, introductory Chemistry course. A key component of this training was to create a collaborative environment where ULAs had ample time to share instructional challenges and discuss inclusive practices to best support their students. Using a randomized-controlled trial design, we find that ULAs randomly assigned to this fellowship used more inclusive practices and reported higher belonging. Their students also reported more positive engagement and comfort in course discussion sections, and fewer group disparities in their experiences.
   tags:
     - In Prep
     - Trainings
@@ -25,22 +26,22 @@
   tags:
     - In Prep
 
-- title: Post-bacc 
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: TxBSPI Post-Baccalaureate Fellowships
+  subtitle: World-class training for aspiring researchers
+  image: images/postbaccs.png
+  link: https://txbspi.prc.utexas.edu/post-baccalaureate-fellowship/
+  description: The TxBSPI post-baccalaureate fellowship is a full-time position for aspiring researchers in the social sciences. Post-baccalaureate fellows gain in-depth research experiences and receive structured training in preparation for applying for doctoral programs. Most fellows work with us for two years. The fellowship is a one-year appointment with the opportunity for a one-year renewal. Fellows receive all the benefits of a full-time University of Texas at Austin employee, including healthcare and retirement benefits. 
   tags:
-    - resource
-    - mentoring
+    - Mentoring
 
-- title: Physics TxMI
-  subtitle: a subtitle
+- title: STEMx Communities of Practice
+  subtitle: Educators discovering to enhance student success
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: A research-practice partnership to develop and implement practices that transform learning and instruction and studies the outcomes among their students.
   tags:
     - Trainings
+    - STEMx
 
 - title: Effective Groupwork
   subtitle: a subtitle
@@ -48,4 +49,4 @@
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   tags:
-    - Trainings
+    - In Prep
