@@ -79,6 +79,7 @@
   publisher: Advances in Methods and Practices in Psychological Science
   date: '2018-03-01'
   link: http://journals.sagepub.com/doi/10.1177/2515245917740427
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1111/josi.12417
@@ -93,6 +94,7 @@
   publisher: Journal of Social Issues
   date: '2021-09-01'
   link: https://spssi.onlinelibrary.wiley.com/doi/10.1111/josi.12417
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.1126/science.ade4420
