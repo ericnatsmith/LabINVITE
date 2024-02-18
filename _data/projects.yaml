@@ -1,52 +1,88 @@
-- title: NEAT STEM
-  subtitle: Measuring Instructional Practices in STEM college courses
+- title: NEAT Survey Validation
+  subtitle: Measuring instructional practices in STEM college courses
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: The National Educataional Assessment Trial of College STEM Instruction (NEAT STEM) aims to create valid measures of undergraduate learning experiences that capture specific practices that are most impactful to students engagement and retention.
+  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
+  description: The National Educataional Assessment Trial (NEAT) aims to create valid measures of undergraduate learning experiences that capture impactful instructional practices and provide a foundation for the next generation of instructional improvement programs.
   tags:
-    - Ongoing
-    - Methods
+    - TxBSPI
 
-- title: Chemistry Learning Assistnat Trainings
-  subtitle: Leveraging undergraduate instructors to promote STEM equity
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Through a unique collaboration with an existing ULA program in the UT College of Natural Sciences, our research team developed a weekly supplemental “fellowship” for ULAs of a large, introductory Chemistry course. A key component of this training was to create a collaborative environment where ULAs had ample time to share instructional challenges and discuss inclusive practices to best support their students. Using a randomized-controlled trial design, we find that ULAs randomly assigned to this fellowship used more inclusive practices and reported higher belonging. Their students also reported more positive engagement and comfort in course discussion sections, and fewer group disparities in their experiences.
-  tags:
-    - In Prep
-    - Trainings
 
-- title: Broad Regard Messaging
-  subtitle: Recognizing students' lives to increase academic investment
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  tags:
-    - In Prep
+# - title: Engaging STEM Groupwork
+#   subtitle: Measuring instructional practices in STEM college courses
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
+#   description: description forthcoming
+#   tags:
+#     - DBER
+
+# - title: Chemistry Learning Assistant Trainings
+#   subtitle: Leveraging undergraduate instructors to promote STEM equity
+#   image: images/photo.jpg
+#   description: LAs randomly assinged to a supplemental fellowship shared instructional challenges and discussed inclusive practices to best support their students. These LAs used more inclusive practices and their students also reported more positive engagement in course discussion sections.
+#   tags:
+#     - temp
 
 - title: TxBSPI Post-Baccalaureate Fellowships
   subtitle: World-class training for aspiring researchers
+  group: sharing
   image: images/postbaccs.png
   link: https://txbspi.prc.utexas.edu/post-baccalaureate-fellowship/
-  description: The TxBSPI post-baccalaureate fellowship is a full-time position for aspiring researchers in the social sciences. Post-baccalaureate fellows gain in-depth research experiences and receive structured training in preparation for applying for doctoral programs. Most fellows work with us for two years. The fellowship is a one-year appointment with the opportunity for a one-year renewal. Fellows receive all the benefits of a full-time University of Texas at Austin employee, including healthcare and retirement benefits. 
+  description: The TxBSPI post-baccalaureate fellowship is a full-time position for aspiring researchers in the social sciences. Post-baccalaureate fellows gain in-depth research experiences and receive structured training in preparation for applying for doctoral programs.
   tags:
-    - Mentoring
+    - TxBSPI
 
-- title: STEMx Communities of Practice
-  subtitle: Educators discovering to enhance student success
+- title: OERTX Teaching Excellence Toolkit
+  subtitle: Open Education Resources to support college readiness and success
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: A research-practice partnership to develop and implement practices that transform learning and instruction and studies the outcomes among their students.
+  link: https://oertx.highered.texas.gov/groups/teaching-excellence-toolkit/1382/
+  description: The OERTX Teaching Excellence Toolkit is a collaboration between the Office of STEM Education Excellence (STEMx) at the University of Texas at Austin and the Texas Higher Education Coordinating Board, with support from college faculty and instructors across the state of Texas.
   tags:
-    - Trainings
     - STEMx
 
-- title: Effective Groupwork
-  subtitle: a subtitle
+- title: Notion Lab-in-a-Box
+  subtitle: Cheap and customizable internal lab organization
+  group: sharing
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Notion link forthcoming
   tags:
-    - In Prep
+    - Project Management
+
+- title: Research Project Charters
+  subtitle: How to get projects started on the right foot
+  group: sharing
+  image: images/photo.jpg
+  description: Link forthcoming
+  tags:
+    - Project Management
+
+- title: The Timesmith Method
+  subtitle: My personal task-prioritization system
+  group: sharing
+  image: images/photo.jpg
+  description: Link forthcoming
+  tags:
+    - Project Management
+
+
+# - title: Broad Regard Messaging
+#   subtitle: Instructor messages improve course grades for marginalized college students
+#   image: images/photo.jpg
+#   group: inprep
+#   link: https://github.com/
+#   description: We conducted two randomized-controlled field experiments to test whether *broad regard* messages embedded in instructor communications around the purpose of course office hours can improve course grades for marginalized studednt in introductory psychology courses.
+#   tags:
+#     - temp
+
+
+
+# - title: STEMx Communities of Practice
+#   subtitle: Educators discovering to enhance student success
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: A research-practice partnership to develop and implement practices that transform learning and instruction and studies the outcomes among their students.
+#   tags:
+#     - Trainings
+#     - STEMx

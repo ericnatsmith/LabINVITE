@@ -15,12 +15,14 @@ Below you can find other projects and efforts our lab is up to.
 
 {% include section.html %}
 
-## Featured
+## Current Research Priorities
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-{% include section.html %}
+## Worth Sharing
 
-## More
+{% include list.html component="card" data="projects" filters="group: sharing" style="small" %}
+
+## Upcoming Publications
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
