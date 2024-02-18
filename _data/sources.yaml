@@ -48,3 +48,17 @@
   date: '2022-10-04'
   link: https://www.guilford.com/books/Handbook-of-Wise-Interventions/Walton-Crum/9781462551002
   image: https://www.guilford.com/covers/large/9781462551002.jpg
+
+
+- id: https://doi.org/10.26300/es6b-sm82
+  date: 
+
+- id: 'unpublished'
+  title: Initial evidence that peer instruction is less effective for physics students with lower quantitative preparation
+  authors:
+  - Eric N. Smith
+  - Jacob Helwig, 
+  - Jane Huk
+  - Kathryn Hendren
+  - Vernita Gordon
+  image: images/peerlecture.png
