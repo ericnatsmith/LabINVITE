@@ -1,9 +1,10 @@
 ---
 ---
 
-# You're invited!
+# SITE UNDER CONSTRUCTION
 
-We are a collaborative of social scientists and educators devoted to discovering, developing, and testing impactful instructional practices through rigorous research methods. If you'd like to join our efforts please *contact us*.
+We are a collaborative of social scientists and educators devoted to discovering, developing, and testing impactful instructional practices through rigorous research methods. 
+
 
 {% include section.html %}
 
