@@ -1,62 +1,3 @@
-{% comment %}Split an empty string to create an empty array{% endcomment %}
-{% assign emptyarray = "" | split: "," %}
-
-{% comment %}Assign data with applied filters{% endcomment %}
-{% assign data = site.data[include.data]
-  | default: site[include.data]
-  | default: emptyarray
-  | data_filter: include.filters
-%}
-
-{% comment %}Separate items without dates{% endcomment %}
-{% assign undated_items = data | where_exp: "item", "item.date == nil or item.date == empty" %}
-
-{% comment %}Check and display undated items{% endcomment %}
-{% if undated_items.size > 0 %}
-  <h3 id="undated">Working Papers and In Preparation</h3>
-  {% for item in undated_items %}
-    {% assign style = item.style | default: include.style %}
-    {%
-      include {{ include.component | append: ".html" }}
-      author=item.author
-      authors=item.authors
-      buttons=item.buttons
-      caption=item.caption
-      content=item.content
-      date=item.date
-      description=item.description
-      excerpt=item.excerpt
-      height=item.height
-      icon=item.icon
-      id=item.id
-      image=item.image
-      last_modified_at=item.last_modified_at
-      link=item.link
-      lookup=item.lookup
-      name=item.name
-      publisher=item.publisher
-      repo=item.repo
-      role=item.role
-      slug=item.slug
-      style=style
-      subtitle=item.subtitle
-      tags=item.tags
-      text=item.text
-      title=item.title
-      tooltip=item.tooltip
-      type=item.type
-      url=item.url
-      width=item.width
-    %}
-  {% endfor %}
-{% endif %}
-
-{% comment %}Filter out items with dates for year grouping{% endcomment %}
-{% assign dated_items = data | where_exp: "item", "item.date != nil and item.date != empty" %}
-
-{% if dated_items.size > 0 %}
-  <h3 id="dated">Publications</h3>
-
 {% assign emptyarray = "" | split: "," %}
 {% assign data = site.data[include.data]
   | default: site[include.data]
@@ -64,7 +5,7 @@
   | data_filter: include.filters
 %}
 
-{% assign years = dated_items
+{% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
   | reverse
