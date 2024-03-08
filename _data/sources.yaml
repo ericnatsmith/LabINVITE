@@ -51,14 +51,18 @@
 
 
 - id: https://doi.org/10.26300/es6b-sm82
-  date: 
-
-- id: https://www.google.com
-  title: Initial evidence that peer instruction is less effective for physics students with lower quantitative preparation
+  title: 'Let’s Chat: Leveraging Chatbot Outreach for Improved Course Performance.'
   authors:
+  - Katharine Meyer
+  - Lindsay C. Page
+  - Catherine Mata
   - Eric N. Smith
-  - Jacob Helwig, 
-  - Jane Huk
-  - Kathryn Hendren
-  - Vernita Gordon
-  image: images/peerlecture.png
+  - B. Tyler Walsh
+  - C. Lindsey Fifield
+  - Amy Eremionkhale
+  - Michael Evans
+  - Shelby Frost
+  publisher: EdWorkingPaper
+  date: '2023-09-01'
+  link: https://doi.org/10.26300/es6b-sm82
+  image: images/chatbot_message.png
