@@ -1,7 +1,7 @@
 ---
-title: Example post 3
-author: john-doe
-tags: biology, medicine
+title: This is not the blog you're looking for
+author: eric-smith
+tags: in-prep
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is a filler page which may or may not have my thoughts on things. Stay tuned...
