@@ -190,12 +190,12 @@
   plugin: sources.py
   file: sources.yaml
 - id: https://doi.org/10.26300/es6b-sm82
-  title: "Let\u2019s Chat: Leveraging Chatbot Outreach for Improved Course Performance."
+  title: "Let\u2019s Chat: Leveraging Chatbot Outreach for Improved Course Performance"
   authors:
   - Katharine Meyer
   - Lindsay C. Page
   - Catherine Mata
-  - Eric N. Smith
+  - Eric Smith
   - B. Tyler Walsh
   - C. Lindsey Fifield
   - Amy Eremionkhale
@@ -203,7 +203,7 @@
   - Shelby Frost
   publisher: EdWorkingPaper
   date: '2023-09-01'
-  link: https://doi.org/10.26300/es6b-sm82
+  link: https://edworkingpapers.com/ai22-564
   image: images/chatbot_message.png
   plugin: sources.py
   file: sources.yaml
