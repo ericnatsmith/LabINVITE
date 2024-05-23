@@ -1,70 +1,50 @@
-- title:  Heterogeneity in STEM instruction
+- title: Barriers to Effective PD
   subtitle: Measuring instructional practices in STEM college courses
   group: featured
   image: images/photo.jpg
   link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
   description: The National Educataional Assessment Trial (NEAT) aims to create valid measures of undergraduate learning experiences that capture impactful instructional practices and provide a foundation for the next generation of instructional improvement programs.
   tags:
-    - Instructional Practices
-    - TxBSPI
-    - NSF
+    - NEAT Surveys
+    - TxMI Fellowships
+    - ULA Trainings
 
-- title: OERTX Teaching Excellence Toolkit
-  subtitle: Open Education Resources to support college readiness and success
+- title: Rigorously Test Promising Practices
+  subtitle: Collaborate with discipline-based educators and researchers
   group: featured
   image: images/photo.jpg
-  link: https://oertx.highered.texas.gov/groups/teaching-excellence-toolkit/1382/
-  description: The OERTX Teaching Excellence Toolkit is a collaboration between the Office of STEM Education Excellence (STEMx) at the University of Texas at Austin and the Texas Higher Education Coordinating Board, with support from college faculty and instructors across the state of Texas.
+  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
+  description: Description
   tags:
-    - Instructional Practices
-    - STEMx
-    - THECB
+    - Peer Groupwork
+    - Instructor Messaging
+    - Grading Structures
 
-- title: 'Student interaction with instructor emails in introductory and upper-year computing courses. (In SIGCSE 2024: Proceedings of the 55th ACM Technical Symposium on Computer Science Education.)'
-  subtitle: 'Bernuy Z. A., Ye R., Sibia, N., Nalluri R., Williams J. J., Petersen A., Smith, E.N., Simion B., & Liut M.'
-  group: inprep
+- title: Socially Constructed STEM Identities
+  subtitle: Description
+  group: featured
   image: images/photo.jpg
-  description: Temp
+  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
+  description: Examine the role of socially constructed identities (i.e., "What do others think of me?") in motivation and performance.
   tags:
-    - Instructional Practices
-    - DBER
+    - Broad Regard
+    - STEM Identity
 
-- title: Initial evidence that peer instruction is less effective for physics students with lower quantitative preparation (under review)
-  subtitle: Eric N. Smith, Jacob Helwig, Jane Huk, Kathryn Hendren, & Vernita Gordon
-  group: inprep
-  image: images/peerlecture.png
-  description: Temp
-  tags: 
-    - Instructional Practices
-    - NSF
-    - DBER
+# - title: Engaging STEM Groupwork
+#   subtitle: Measuring instructional practices in STEM college courses
+#   group: featured
+#   image: images/photo.jpg
+#   link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2201928
+#   description: description forthcoming
+#   tags:
+#     - DBER
 
-- title: Instructor messages improve course grades for marginalized college students
-  subtitle: 
-  image: images/photo.jpg
-  group: inprep
-  description: We conducted two randomized-controlled field experiments to test whether *broad regard* messages embedded in instructor communications around the purpose of course office hours can improve course grades for marginalized studednt in introductory psychology courses.
-  tags:
-    - Instructional Practices
-    - NSF
-    - TxBSPI
-
-- title: Engaging STEM Groupwork
-  subtitle: Training program to improve peer culture and group discussion in undergraduate Physics course
-  group: sharing
-  image: images/photo.jpg
-  link: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2150878
-  description: description forthcoming
-  tags:
-    - DBER
-
-- title: Chemistry Learning Assistant Trainings
-  subtitle: Leveraging undergraduate instructors to promote STEM equity
-  image: images/photo.jpg
-  description: LAs randomly assinged to a supplemental fellowship shared instructional challenges and discussed inclusive practices to best support their students. These LAs used more inclusive practices and their students reported more positive engagement in course discussion sections.
-  tags:
-    - TxBSPI
-    - Training
+# - title: Chemistry Learning Assistant Trainings
+#   subtitle: Leveraging undergraduate instructors to promote STEM equity
+#   image: images/photo.jpg
+#   description: LAs randomly assinged to a supplemental fellowship shared instructional challenges and discussed inclusive practices to best support their students. These LAs used more inclusive practices and their students also reported more positive engagement in course discussion sections.
+#   tags:
+#     - temp
 
 - title: TxBSPI Post-Baccalaureate Fellowships
   subtitle: World-class training for aspiring researchers
@@ -74,13 +54,21 @@
   description: The TxBSPI post-baccalaureate fellowship is a full-time position for aspiring researchers in the social sciences. Post-baccalaureate fellows gain in-depth research experiences and receive structured training in preparation for applying for doctoral programs.
   tags:
     - TxBSPI
-    - Mentorship
+
+- title: OERTX Teaching Excellence Toolkit
+  subtitle: Open Education Resources to support college readiness and success
+  group: sharing
+  image: images/photo.jpg
+  link: https://oertx.highered.texas.gov/groups/teaching-excellence-toolkit/1382/
+  description: The OERTX Teaching Excellence Toolkit is a collaboration between the Office of STEM Education Excellence (STEMx) at the University of Texas at Austin and the Texas Higher Education Coordinating Board, with support from college faculty and instructors across the state of Texas.
+  tags:
+    - STEMx
 
 - title: Notion Lab-in-a-Box
   subtitle: Cheap and customizable internal lab organization
   group: sharing
   image: images/photo.jpg
-  description: Link forthcoming
+  description: Notion link forthcoming
   tags:
     - Project Management
 
@@ -99,3 +87,24 @@
   description: Link forthcoming
   tags:
     - Project Management
+
+
+# - title: Broad Regard Messaging
+#   subtitle: Instructor messages improve course grades for marginalized college students
+#   image: images/photo.jpg
+#   group: inprep
+#   link: https://github.com/
+#   description: We conducted two randomized-controlled field experiments to test whether *broad regard* messages embedded in instructor communications around the purpose of course office hours can improve course grades for marginalized studednt in introductory psychology courses.
+#   tags:
+#     - temp
+
+
+
+# - title: STEMx Communities of Practice
+#   subtitle: Educators discovering to enhance student success
+#   image: images/photo.jpg
+#   link: https://github.com/
+#   description: A research-practice partnership to develop and implement practices that transform learning and instruction and studies the outcomes among their students.
+#   tags:
+#     - Trainings
+#     - STEMx
